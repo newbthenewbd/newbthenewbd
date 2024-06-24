@@ -29,7 +29,7 @@
 
 <table padding="0" width="100%">
   <th width="25%" valign="top">
-    <a href="https://goom-online.github.io/">
+    <a href="https://github.com/goom-online/goom-online.github.io">
       <img src="https://github.com/newbthenewbd/newbthenewbd/assets/1766353/32f1404b-da50-4aa8-b59d-91d3ab26adf3" alt="Goom On-Line - a revival of a wonderful music visualizer, first released in 2001 by Jean-Christophe Hoelt, now in your web browser">
     </a>
     <sup><h6>Goom On-Line - a revival of a wonderful music visualizer, first released in 2001 by Jean-Christophe Hoelt, now in your web browser</h6></sup>
