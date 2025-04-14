@@ -41,7 +41,7 @@
     <sup><h6>TinyMCE Editor Integration Plugin for Grav - created on a whim out of a simple need, unexpectedly it has become quite popular</h6></sup>
   </th>
   <th width="25%" valign="top">
-    <a href="[https://github.com/newbthenewbd/newbthenewbd/assets/1766353/8388c31d-2f9f-43c4-99a8-b09324baf581](https://github.com/newbthenewbd/GUIC)">
+    <a href="https://github.com/newbthenewbd/GUIC">
       <img src="https://github.com/newbthenewbd/GUIC/raw/main/dev/GUIC.png" alt="Graphical User-friendly Image Correlator (GUIC) - a GUI application for digital image correlation in experimental mechanics - the topic of my Bachelor's!">
     </a>
     <sup><h6>Graphical User-friendly Image Correlator (GUIC) - a GUI application for digital image correlation in experimental mechanics - the topic of my Bachelor's!</h6></sup>
